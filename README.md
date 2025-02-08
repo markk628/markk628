@@ -1,8 +1,10 @@
 # Welcome to my profile
-[![Linkedin: Mark Kim](https://img.shields.io/badge/LinkedIn-blue&link=https://linkedin.com/in/markk628/)](https://linkedin.com/in/markk628)
-[![Medium: Mark Kim](https://img.shields.io/badge/-Medium-black&link=https://medium.com/@markk628/)](https://medium.com/@markk628)
 
 [![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markk628&show_icons=true&theme=highcontrast)](https://github.com/markk628/markk628)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markk628&layout=compact&theme=highcontrast)](https://github.com/markk628/markk628)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markk628&layout=donut-vertical&theme=highcontrast)](https://github.com/markk628/markk628)
 
+<h2>Links</h2> 
+<a href="https://linkedin.com/in/markk628" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://medium.com/@markk628" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
