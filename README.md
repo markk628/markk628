@@ -1,8 +1,8 @@
 # Welcome to my profile
 
-[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markk628&show_icons=true&theme=highcontrast)
+[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markk628&show_icons=true&theme=highcontrast)](https://github.com/markk628/markk628)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markk628&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markk628&theme=highcontrast)](https://github.com/markk628/markk628)
 
 <h2>Links</h2> 
 <a href="https://linkedin.com/in/markk628" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
